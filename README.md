@@ -1,10 +1,10 @@
-# 🚀 Startup Idea Validator
+#  Startup Idea Validator
 
 Validate your startup ideas with AI-powered insights.
 
 🔗 **Live Site**: [startup-validation.netlify.app](https://startup-validation.netlify.app/)
 
-## ✨ Features
+##  Features
 
 - Submit startup idea via a simple form
 - AI-generated:
